@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-triage-queue/static/css/main.93bb27d6.chunk.css",
+    "main.js": "/react-triage-queue/static/js/main.b5e0fa61.chunk.js",
+    "main.js.map": "/react-triage-queue/static/js/main.b5e0fa61.chunk.js.map",
+    "runtime-main.js": "/react-triage-queue/static/js/runtime-main.2081fff2.js",
+    "runtime-main.js.map": "/react-triage-queue/static/js/runtime-main.2081fff2.js.map",
+    "static/js/2.c994b551.chunk.js": "/react-triage-queue/static/js/2.c994b551.chunk.js",
+    "static/js/2.c994b551.chunk.js.map": "/react-triage-queue/static/js/2.c994b551.chunk.js.map",
+    "index.html": "/react-triage-queue/index.html",
+    "static/css/main.93bb27d6.chunk.css.map": "/react-triage-queue/static/css/main.93bb27d6.chunk.css.map",
+    "static/js/2.c994b551.chunk.js.LICENSE.txt": "/react-triage-queue/static/js/2.c994b551.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2081fff2.js",
+    "static/js/2.c994b551.chunk.js",
+    "static/css/main.93bb27d6.chunk.css",
+    "static/js/main.b5e0fa61.chunk.js"
+  ]
+}
